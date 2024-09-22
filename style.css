@@ -1,0 +1,31 @@
+.noon{
+    text-align: center;
+    color: rgb(58, 0, 36);
+    font-weight: 900;
+    
+    }
+    .a1{
+     width: 350px;
+     margin-left: 590px;
+    }
+    
+    .b{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    }
+    .c{
+    text-align: center;
+     color: rgb(0, 0, 0);
+    }
+    .d{
+        text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 250px;
+    }
+    .e{
+        text-align: center;
+     color: rgb(0, 0, 0);
+    }
+body{background: url(https://www.nawpic.com/media/2020/zhongli-nawpic.png);
+    background-size: cover;
+}
